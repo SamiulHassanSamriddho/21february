@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>একুশে ফেব্রুয়ারি</title>
+    <link rel="stylesheet" href="https://xylinxen.neocities.org/p/21february/styles.css" />
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.15.2/css/all.css"
+      integrity="sha384-vSIIfh2YWi9wW0r9iZe7RJPrKwp6bG+s9QZMoITbCckVJqGCCRhc+ccxNcdpHuYu"
+      crossorigin="anonymous"
+    />
+  </head>
+  <body>
+    <div class="thankcont">
+      <div class="bird-container bird-container--one">
+        <div class="bird bird--one"></div>
+      </div>
+      <div class="bird-container bird-container--two">
+        <div class="bird bird--two"></div>
+      </div>
+    </div>
+    <!-- ///// -->
+    <div class="cloud2">
+      <img
+        src="https://cdn.pixabay.com/photo/2017/10/10/13/42/cloud-2837231_960_720.png"
+        style="width: 300px"
+      />
+    </div>
+
+    <div class="cloud4 nuage-fd">
+      <img
+        src="https://cdn.pixabay.com/photo/2017/10/10/13/42/cloud-2837231_960_720.png"
+        style="width: 1000px"
+      />
+    </div>
+
+    <div class="cloud1">
+      <img
+        src="https://cdn.pixabay.com/photo/2017/10/10/13/42/cloud-2837231_960_720.png"
+      />
+    </div>
+
+    <div class="cloud3">
+      <img
+        src="https://cdn.pixabay.com/photo/2017/10/10/13/42/cloud-2837231_960_720.png"
+        style="width: 500px"
+      />
+    </div>
+    <header class="nev">
+      <div class="nevAlint">
+        <div class="nevLeft">
+          <div class="about">
+            <img src="https://xylinxen.neocities.org/ig/samriddhho.jpg" alt="racel" />
+            <div class="aboutText">
+              <a
+                target="_blank"
+                href="https://www.linkedin.com/in/samiulhassansamriddho/"
+                rel="noreferrer"
+                class="hading"
+                >Samiul Hassan Samriddho</a
+              >
+              <p class="subtitle">CEO & Founder</p>
+            </div>
+          </div>
+          <a href="//www.dmca.com/Protection/Status.aspx?ID=05e18607-2b99-4307-af9e-e9d55a92a3fd" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://images.dmca.com/Badges/dmca_protected_sml_120n.png?ID=05e18607-2b99-4307-af9e-e9d55a92a3fd"  alt="DMCA.com Protection Status" /></a>  <script src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script>
+        </div>
+        <div class="nevRight">
+          <div class="socil-icon">
+            <a
+              href="https://www.facebook.com/samiulhassansamriddho"
+              target="_blank"
+              ><i class="fab fa-facebook-f"></i
+            ></a>
+            <a href="https://twitter.com/Samriddho_SH" target="_blank"
+              ><i class="fab fa-twitter"></i
+            ></a>
+            <a
+              href="https://www.youtube.com/c/samiulhassansamriddho"
+              target="_blank"
+              ><i class="fab fa-youtube"></i
+            ></a>
+            <a href="https://www.linkedin.com/in/samiulhassansamriddho/" target="_blank"
+              ><i class="fab fa-invision"></i
+            ></a>
+            <a href="https://www.instagram.com/samiulhassansamriddho/" target="_blank"
+              ><i class="fab fa-instagram"></i
+            ></a>
+          </div>
+        </div>
+      </div>
+    </header>
+    <div class="textBox">
+      <div class="textBoxAlin">
+        <h1 class="text21">অমর</h1>
+        <span class="text22">২১</span>
+      </div>
+
+      <h1 class="text23">
+        বাংলা ভাষা আন্দোলনে<br />
+        সকল শহীদের প্রতি গভীর
+      </h1>
+      <h1 class="text24">শ্রদ্ধাঞ্জলি</h1>
+    </div>
+
+    <div class="uniform">
+      <div class="object3d">
+        <!-- The Stage -->
+        <div class="reusable-rect main-stage">
+          <div class="sides side1"></div>
+          <div class="sides side2"></div>
+
+          <div class="reusable-rect stairs stair1">
+            <div class="sides side1"></div>
+            <div class="sides side2"></div>
+          </div>
+          <div class="reusable-rect stairs stair2">
+            <div class="sides side1"></div>
+            <div class="sides side2"></div>
+          </div>
+          <div class="reusable-rect stairs stair3">
+            <div class="sides side1"></div>
+            <div class="sides side2"></div>
+          </div>
+
+          <!-- Elements over Stage -->
+          <div class="main-elements">
+            <!-- Child Block 2x [LEFT] -->
+            <div class="group_element classA group_c2">
+              <div class="reusable-rect stage-over c2">
+                <div class="sides side1"></div>
+                <div class="sides side2"></div>
+              </div>
+              <div class="reusable-rect stage-over c2-left">
+                <div class="sides side1"></div>
+                <div class="sides side2"></div>
+              </div>
+              <div class="reusable-rect stage-over c2-right">
+                <div class="sides side1"></div>
+                <div class="sides side2"></div>
+              </div>
+              <div class="reusable-rect stage-over c2-top">
+                <div class="sides side1"></div>
+                <div class="sides side2"></div>
+              </div>
+              <div class="nile"></div>
+            </div>
+
+            <!-- Child Block 2x [RIGHT] -->
+            <div class="group_element classA group_c4">
+              <div class="reusable-rect stage-over c2">
+                <div class="sides side1"></div>
+                <div class="sides side2"></div>
+              </div>
+              <div class="reusable-rect stage-over c2-left">
+                <div class="sides side1"></div>
+                <div class="sides side2"></div>
+              </div>
+              <div class="reusable-rect stage-over c2-right">
+                <div class="sides side1"></div>
+                <div class="sides side2"></div>
+              </div>
+              <div class="reusable-rect stage-over c2-top">
+                <div class="sides side1"></div>
+                <div class="sides side2"></div>
+              </div>
+              <div class="nile"></div>
+            </div>
+
+            <!-- Child Block x [LEFT] -->
+            <div class="group_element classB group_c1">
+              <div class="reusable-rect stage-over c2">
+                <div class="sides side1"></div>
+                <div class="sides side2"></div>
+              </div>
+              <div class="reusable-rect stage-over c2-left">
+                <div class="sides side1"></div>
+                <div class="sides side2"></div>
+              </div>
+              <div class="reusable-rect stage-over c2-right">
+                <div class="sides side1"></div>
+                <div class="sides side2"></div>
+              </div>
+              <div class="reusable-rect stage-over c2-top">
+                <div class="sides side1"></div>
+                <div class="sides side2"></div>
+              </div>
+              <div class="nile"></div>
+            </div>
+
+            <!-- Child Block x [RIGHT] -->
+            <div class="group_element classB group_c3">
+              <div class="reusable-rect stage-over c2">
+                <div class="sides side1"></div>
+                <div class="sides side2"></div>
+              </div>
+              <div class="reusable-rect stage-over c2-left">
+                <div class="sides side1"></div>
+                <div class="sides side2"></div>
+              </div>
+              <div class="reusable-rect stage-over c2-right">
+                <div class="sides side1"></div>
+                <div class="sides side2"></div>
+              </div>
+              <div class="reusable-rect stage-over c2-top">
+                <div class="sides side1"></div>
+                <div class="sides side2"></div>
+              </div>
+              <div class="nile"></div>
+            </div>
+
+            <!-- Mother Block -->
+            <div class="group_element group_m">
+              <div class="reusable-rect stage-over c3">
+                <div class="sides side1"></div>
+                <div class="sides side2"></div>
+              </div>
+              <div class="reusable-rect stage-over c3-center">
+                <div class="sides side1"></div>
+                <div class="sides side2"></div>
+                <div class="reusable-rect stage-over tile-tilt">
+                  <div class="sides side1"></div>
+                  <div class="sides side2"></div>
+                  <div class="reusable-rect stage-over tile-head">
+                    <div class="sides side1"></div>
+                    <div class="sides side2"></div>
+                  </div>
+                  <div class="nile"></div>
+                </div>
+              </div>
+              <div class="reusable-rect stage-over c3-left">
+                <div class="sides side1"></div>
+                <div class="sides side2"></div>
+                <div class="reusable-rect stage-over tile-tilt">
+                  <div class="sides side1"></div>
+                  <div class="sides side2"></div>
+                </div>
+              </div>
+              <div class="reusable-rect stage-over c3-right">
+                <div class="sides side1"></div>
+                <div class="sides side2"></div>
+                <div class="reusable-rect stage-over tile-tilt">
+                  <div class="sides side1"></div>
+                  <div class="sides side2"></div>
+                </div>
+              </div>
+              <div class="nile"></div>
+              <!-- Mother Circle -->
+              <div class="thick-circle stage-over">
+                <div></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Camera Controls for the actual 3D feeling -->
+    <span id="controls" class="hide">
+      <label>
+        <span title="Rotation ↔ ↕">Z</span>
+        <input
+          type="range"
+          id="z_axis"
+          min="-180"
+          max="180"
+          value="-93"
+          onchange="apply(this, '--z', 'deg')"
+          oninput="apply(this, '--z', 'deg')"
+          step="0.1"
+        />
+        <span></span>
+      </label>
+      <center>
+        <button
+          onclick="document.querySelector('.object3d').classList.toggle('rotate')"
+        >
+          360°
+        </button>
+      </center>
+    </span>
+    <script src="https://xylinxen.neocities.org/p/21february/code.js"></script>
+  </body>
+</html>
